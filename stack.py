@@ -1,0 +1,16 @@
+stack = []
+stack.append("r")
+stack.append("i")
+stack.append("s")
+stack.append("h")
+stack.append("i")
+print(stack)
+print(type(stack))
+stack.pop()
+stack.pop()
+stack.pop()
+stack.pop()
+stack.pop()
+print(stack)
+print()
+        
